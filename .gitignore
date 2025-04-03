@@ -1,0 +1,85 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+VENV/
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+.pytest_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pyre type checker
+.pyre/
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# tox
+.tox/
+.nox/
+.coverage
+*.tox
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# Flask stuff:
+instance/
+*.bak
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# macOS system files
+.DS_Store
+
+# JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Coverage reports
+coverage/
+*.cover
+*.hypothesis/
+.pytest_cache/
